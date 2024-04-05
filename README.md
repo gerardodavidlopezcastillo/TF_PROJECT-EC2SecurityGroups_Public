@@ -1,4 +1,4 @@
-# TF_PROJECT-EC2SecurityGroups
+# TF_PROJECT-EC2SecurityGroups_Public
 ## **Description Details:**
 
 This repository guides you through the process of building AWS EC2 instances and security groups using Terraform. Explore Terraform modules, input variables, local values, and output values to create a well-configured and secure AWS infrastructure.
